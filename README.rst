@@ -1,8 +1,15 @@
 dbt-metabase
 ############
 
-Model synchronization from `dbt`_ to `Metabase`_.
+Stewards: @team-poseidon
+============
+https://linear.app/pleo/team/PS/triage
 
+
+Introduction
+============
+
+Model synchronization from `dbt`_ to `Metabase`_.
 .. _`dbt`: https://www.getdbt.com/
 .. _`Metabase`: https://www.metabase.com/
 
